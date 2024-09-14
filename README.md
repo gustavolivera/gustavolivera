@@ -1,5 +1,9 @@
 👨🏻‍💻 E ai!
+Sou Gustavo, estudante de Gestão de Tecnologia da Informação.
 
+Atualmente estou me desenvolvendo na área de Front-End utilizando HTML, CSS e JS.
+
+Meu foco é aperfeiçoar meus conhecimentos na linguagem C# e nos frameworks Angular e .NET.
 <div>
 
    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolivera&layout=compact&theme=tokyonight"/>
