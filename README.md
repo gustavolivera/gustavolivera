@@ -1,8 +1,12 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Gustavo%20Oliveira&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Gustavo%20Oliveira&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
+
+###
+
+<h4 align="center">Desenvolvedor Full Stack com foco em aplicações web, APIs e sistemas corporativos.  Atuo principalmente com C#, .NET, Angular, TypeScript, PostgreSQL, MongoDB, Docker e Azure. Tenho experiência com construção e manutenção de sistemas internos, integrações, modelagem de banco de dados, consultas SQL, melhorias de performance e modernização de aplicações legadas. Gosto de trabalhar em soluções práticas, performáticas e bem estruturadas, principalmente em cenários que exigem organização técnica, clareza de código e escalabilidade.</h4>
 
 ###
 
@@ -28,12 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gustavolivera&locale=pt-br&mode=weekly&theme=gruvbox&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
